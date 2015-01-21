@@ -10,4 +10,4 @@ Steps to Save:
 1. git status
 2. git add . 
 3. git commit -am "version description"
-4. git add
+4. git push
